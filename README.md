@@ -18,36 +18,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][website-shield]][website-url]
+
 
 
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/abhaypaswan/lld-python">
-    <img src="https://firebasestorage.googleapis.com/v0/b/techprimer-fbfe6.appspot.com/o/boy_coding2-removebg.png?alt=media&token=8b86815b-ba37-47e6-84b2-c3eb68b39a26" alt="Logo" width="280" height="280">
-  </a>
 
-
-  <h3 align="center">Low Level Design</h3>
-
-  <p align="center">
-    Dedicated resources for Low Level Design/Machine Coding Interview
-    <br />
-    <a href="https://scale.algostreak.com"><strong>Checkout the Web App »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/abhaypaswan/lld-python/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/abhaypaswan/lld-python/issues">Request Problem</a>
-  </p>
-</div>
+  
 
 
 <!-- TABLE OF CONTENTS -->
@@ -68,7 +45,7 @@
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -86,11 +63,11 @@ Speaking for myself, it is frustrating to try to find helpful resources on low-l
 <!-- LOW LEVEL DESIGN PROBLEMS LIST -->
 ## LOW LEVEL DESIGN PROBLEMS LIST
 
-### Problem 1: [Design Parking Lot](https://github.com/abhaypaswan/lld-python/tree/main/Design_Parking_Lot)
+### Problem 1: [Design Parking Lot](https://github.com/SrishtiSinha2003/LLD/tree/main/Design_Parking_Lot)
 Design a parking lot that can efficiently manage the parking and retrieval of vehicles, with the added feature of being able to identify the color of each vehicle and the registration number. The parking lot should also be able to handle different types of vehicles, such as cars, motorcycles, and buses. [(Read More...)](https://github.com/abhaypaswan/lld-python/blob/main/Design_Parking_Lot/problem-statement.md)
 ![Parking Lot LLD](https://github.com/abhaypaswan/lld-python/blob/main/Design_Parking_Lot/design_parking_lot_dark.png)
 
-### Problem 2: [Snake and Ladder](https://github.com/abhaypaswan/lld-python/tree/main/snake_and_ladder)
+### Problem 2: [Snake and Ladder](https://github.com/SrishtiSinha2003/LLD/tree/main/snake_and_ladder)
 Design a Snake and Ladder game with the following requirements:
 
 1. The board has a maximum position of 100.
@@ -117,21 +94,14 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
 ## Contact
 
-Abhay Paswan - work.abhaypaswan@gmail.com
+Srishti Sinha - srishtiisinha2003@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/abhaypaswan/lld-python)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/SrishtiSinha2003/LLD)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
