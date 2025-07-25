@@ -27,28 +27,8 @@
   
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#low-level-design-problems-list">Low Level Design Problems</a>
-      <ul>
-        <li><a href="#problem-1-design-parking-lot">Design Parking Lot</a></li>
-        <li><a href="#problem-2-snake-and-ladder">Snake and Ladder</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
 
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -101,7 +81,6 @@ Don't forget to give the project a star! Thanks again!
 
 Srishti Sinha - srishtiisinha2003@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/SrishtiSinha2003/LLD)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
